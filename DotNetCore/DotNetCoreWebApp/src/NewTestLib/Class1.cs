@@ -14,5 +14,6 @@ namespace NewTestLib
 
         public int ReturnNewValue() => 1;
 
+        public int Parts { get; set; }
     }
 }
