@@ -1,0 +1,5 @@
+#:D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\DotNetCoreWebApp\DotNetCoreWebApp.xproj
+D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\DotNetCoreWebApp\DotNetCoreWebApp.xproj|D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\Models\Models.xproj
+D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\DotNetCoreWebApp\DotNetCoreWebApp.xproj|D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\NewTestLib\NewTestLib.xproj
+D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\DotNetCoreWebApp\DotNetCoreWebApp.xproj|D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\DataAccess\DataAccess.xproj
+D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\DataAccess\DataAccess.xproj|D:\TestProject\DotNetCore Projects\DotNetCoreWebApp\src\Models\Models.xproj
