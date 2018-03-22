@@ -13,7 +13,8 @@ namespace Models
         public string ProductName { get; set; }
         [BsonElement("Price")]
         public double Price { get; set; }
-
+        [BsonElement("discount")]
+        public int Discount {get; set;}
     }
 
 
